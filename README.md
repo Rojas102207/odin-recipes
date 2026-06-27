@@ -1,1 +1,1 @@
-# odin-recipes
+This project involves creating a basic recipe website using basic HTML elements and tags, such as headings, lists (ordered and unordered), images, and links; therefore, the ultimate goal is to demonstrate proficiency in using these elements.
